@@ -14,7 +14,7 @@
 
 <body>
 <?php include "../header/header.php";?>  
-    <div class="container bg-white>
+    <div class="container bg-white">
      
 
     <div class="row ">

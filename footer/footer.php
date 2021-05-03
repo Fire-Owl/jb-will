@@ -15,7 +15,7 @@
                   <div class="col-sm-12 col-md-2 footer__haut-page">
                       <a href =#> Haut de la page </a></div>
                   <div class="col-sm-12 col-md-6 footer__titre me-5"><img src="../footer/GOODV.svg">The   Washingt' Owl  Post</div>
-                  <div class="col-sm-12 col-md-2 footer__mentions "><a href=../mention-legales/mention-legales.php>  Mentions légales</a></div>        
+                  <div class="col-sm-12 col-md-2 footer__mentions "><a href=../mention-legales/mention-legales.php >  Mentions légales</a></div>        
            </div>
     </div>
       

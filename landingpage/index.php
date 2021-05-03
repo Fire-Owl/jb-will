@@ -7,7 +7,7 @@
     <meta name="description" content="Intégration d'une maquette conçue par un webdesigner professionnel téléchargée sur Figma.">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <link rel="shortcut icon" href="ecocabsquare.png" type="image/png">
+    <link rel="shortcut icon" href="logo-favicon.svg" type="image/svg">
     <title>Page d'accueil</title>
 </head>
 
@@ -117,29 +117,23 @@
 
 
  
-<div class="container pt-5 mt-5 bg-white">
-  <div class="row pt-4 ps-3 pb-5 mb-5">
-    <div class="col-sm-12 col-md-5 ps-5">
-      <div class="ps-5 ms-4"><img src="jbD.png" id="cabpaged" ><H2 id="cabpaged__pic" class="ms-5">Jean-Baptiste Druet</H2></div>
+  <div class="container pt-5 mt-5 bg-white">
+      <div class="row pt-4 ps-3 pb-5 mb-5">
+        <div class="col-sm-12 col-md-5 ps-5">
+          <div class="ps-5 ms-4"><img src="jbD.png" id="cabpaged" ><H2 id="cabpaged__pic" class="ms-5">Jean-Baptiste Druet</H2></div>
+        </div>
+        <div class="col-md-1 col-sm-12"><h3 id="cabpaged__title"><a href="../about-us/about-us.php">Fondateurs</h3></a></div>
+        <div class="col-sm-12 col-md-5">
+          
+        <div class="ps-5 ms-4"><img src="williamsC.png" id="cabpaged" ><H2 id="cabpaged__pic" class="ms-5 ps-5">Williams Chazal</H2></div>
+
     </div>
-    <div class="col-md-1 col-sm-12"><h3 id="cabpaged__title"><a href="../about-us/about-us.php">Fondateurs</h3></a></div>
-    <div class="col-sm-12 col-md-5">
-      
-    <div class="ps-5 ms-4"><img src="williamsC.png" id="cabpaged" ><H2 id="cabpaged__pic" class="ms-5 ps-5">Williams Chazal</H2></div>
 
-
-
-
-
-
-
-
-
- 
-
+</div>
 </div>
 
 
 
-</body>
 <?php include "../footer/footer.php";?>
+</body>
+

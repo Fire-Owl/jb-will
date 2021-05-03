@@ -149,15 +149,13 @@
             <p class="p-3 ms-2" id="conclus__txt">La cryptologie regroupe un grand nombre de compétences. Par ailleurs, il existe une grande variété de métiers dans lesquels il peut être nécessaire d'avoir des notions de cryptographie. A partir du moment où un systeme, un réseau ou une entreprise manipule des données dont la lecture sans autorisation peut être convoitée, il est nécessaire qu'une personne compétente dans ce dommaine réfléchisse à la mise en place et à la maintenance des systèmes cryptographiques.</p>
             </div>
         </div>
-        <div class="container-fluid mt-5" id="bg-test">
-
-</div>
+       
 </div>
            
         </div>
         </div>
-        
-        <?php include "../footer/footer.php";?>
+
+
 </body>
 <?php include "../footer/footer.php";?>
 </html>
